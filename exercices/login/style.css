@@ -18,7 +18,7 @@ width: 90%;
 }
 
 .card {
-background-color: #ffffff;
+background-color: #ffffff ;
 display: flex;
 justify-content: space-between;
 align-items: center;
@@ -31,7 +31,7 @@ width: 40%;
 
 .login-section h2 {
 font-size:40px;
-color: #b36b2e;
+color: #b36b2e !importnt;
 font-family:'Times New Roman', Times, serif;
 margin-bottom: 30px;
 margin-left: 60%;
